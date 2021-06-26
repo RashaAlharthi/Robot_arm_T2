@@ -1,5 +1,5 @@
 <?php
-if ($dbc = @mysqli_connect ('localhost', 'root', 's438011026'))
+if ($dbc = @mysqli_connect ('localhost', 'root', ''))
 {
 if (!@mysqli_select_db ($dbc, 'robot_arm')) {
 die ('<p>Could not select the database because: <b>' . mysqli_error($dbc) . '</b></p>');
