@@ -130,7 +130,7 @@
                    <div class="container" style="margin-left: 100px">
                        <form action="handle2.php" method="post">
                        <button class="button button2" name="up" style="margin-left: 27%;"> Up <i class="fa fa-hand-o-up"></i> </button><p>&nbsp;</p>
-                        <button class="button button2" name="left">Left <i class="fa fa-hand-o-left"></i></button> <button class="button button2" name="stop"> Stop <i class="fa fa-hand-stop-o"></i></button> <button class="button button2" name="right">Right <i class="fa fa-hand-o-right"></i></button>
+                        <button class="button button2" name="left"><i class="fa fa-hand-o-left"></i> Left </button> <button class="button button2" name="stop"> Stop <i class="fa fa-hand-stop-o"></i></button> <button class="button button2" name="right">Right <i class="fa fa-hand-o-right"></i></button>
                           <br>
                         <p>&nbsp;</p><button class="button button2" name="down" style="margin-left:27%;">Down <i class="fa fa-hand-o-down"></i> </button>
                        </form>
